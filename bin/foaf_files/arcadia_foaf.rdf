@@ -20,25 +20,25 @@
         <foaf:schoolHomepage rdf:resource="http://www.berkeley.edu/"/>
         <foaf:schoolHomepage rdf:resource="http://www.ischool.utexas.edu/"/>
         <swc:attendeeAt rdf:resource="http://code4lib.org/2014#conference"/>
-		<swc:attendeeAt rdf:resource="http://code4lib.org/2015#conference"/>
-		<swc:attendeeAt rdf:resource="http://code4lib.org/2016#conference"/>
+		    <swc:attendeeAt rdf:resource="http://code4lib.org/2015#conference"/>
+		    <swc:attendeeAt rdf:resource="http://code4lib.org/2016#conference"/>
 
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Programming" />
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Semantic_Web" />
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Digital_preservation" />
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Digital_library" />
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Library" />
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Library_catalog" />
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Metadata" />
-        <foaf:interest rdf:resource="http://viaf.org/viaf/29540426/" />
-        <foaf:interest rdf:resource="http://viaf.org/viaf/175497077/#Dunnett,_Dorothy._|_Lymond_chronicles" />
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Programming"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Semantic_Web"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Digital_preservation"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Digital_library"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Library"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Library_catalog"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Metadata"/>
+        <foaf:interest rdf:resource="http://viaf.org/viaf/29540426/"/>
+        <foaf:interest rdf:resource="http://viaf.org/viaf/175497077/#Dunnett,_Dorothy._|_Lymond_chronicles"/>
 
-        <foaf:knows rdf:resource="http://www.stanford.edu/~bess/foaf.rdf" />
-        <foaf:knows rdf:resource="http://www.stanford.edu/~ahafele/foaf.rdf" />
-        <foaf:knows rdf:resource="http://www.stanford.edu/~laneymcg/laney.rdf" />
-        <foaf:knows rdf:resource="http://www.stanford.edu/~laneymcg/laura.rdf" />
-        <foaf:knows rdf:resource="http://www.stanford.edu/~thorsenh/foaf.rdf" />
-        <foaf:knows rdf:resource="http://www.stanford.edu/~azanella" />
+        <foaf:knows rdf:resource="https://stanford.edu/~bess/foaf.rdf#me"/>
+        <foaf:knows rdf:resource="https://stanford.edu/~ahafele/foaf.rdf#me"/>
+        <foaf:knows rdf:resource="https://stanford.edu/~laneymcg/laney.rdf#me"/>
+        <foaf:knows rdf:resource="https://stanford.edu/~laneymcg/laura.rdf#me"/>
+        <foaf:knows rdf:resource="https://stanford.edu/~thorsenh/foaf.rdf#me"/>
+        <foaf:knows rdf:resource="https://stanford.edu/~azanella/me.rdf#me"/>
         <foaf:holdsAccount rdf:resource="http://twitter.com/arcadia"/>
         <foaf:holdsAccount rdf:resource="http://twitter.com/stringcourse"/>
 
