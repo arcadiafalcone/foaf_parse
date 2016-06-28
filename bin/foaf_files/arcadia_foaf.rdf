@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:swc="http://data.semanticweb.org/ns/swc/ontology#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <foaf:Person rdf:ID="me">
+        <foaf:name>Arcadia Falcone</foaf:name>
+        <foaf:title>Ms</foaf:title>
+        <foaf:givenname>Arcadia</foaf:givenname>
+        <foaf:family_name>Falcone</foaf:family_name>
+        <foaf:mbox_sha1sum>cf05b5d8871e7d36d370ecbf785f4f6167dc0778</foaf:mbox_sha1sum>
+        <foaf:homepage rdf:resource="http://www.arcadiafalcone.net"/>
+        <foaf:phone rdf:resource="tel:650-498-8058"/>
+        <foaf:workplaceHomepage rdf:resource="http://library.stanford.edu/"/>
+        <foaf:schoolHomepage rdf:resource="http://www.swarthmore.edu/"/>
+        <foaf:schoolHomepage rdf:resource="http://www.berkeley.edu/"/>
+        <foaf:schoolHomepage rdf:resource="http://www.ischool.utexas.edu/"/>
+        <swc:attendeeAt rdf:resource="http://code4lib.org/2014#conference"/>
+		<swc:attendeeAt rdf:resource="http://code4lib.org/2015#conference"/>
+		<swc:attendeeAt rdf:resource="http://code4lib.org/2016#conference"/>
+
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Programming" />
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Semantic_Web" />
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Digital_preservation" />
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Digital_library" />
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Library" />
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Library_catalog" />
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Metadata" />
+        <foaf:interest rdf:resource="http://viaf.org/viaf/29540426/" />
+        <foaf:interest rdf:resource="http://viaf.org/viaf/175497077/#Dunnett,_Dorothy._|_Lymond_chronicles" />
+
+        <foaf:knows rdf:resource="http://www.stanford.edu/~bess/foaf.rdf" />
+        <foaf:knows rdf:resource="http://www.stanford.edu/~ahafele/foaf.rdf" />
+        <foaf:knows rdf:resource="http://www.stanford.edu/~laneymcg/laney.rdf" />
+        <foaf:knows rdf:resource="http://www.stanford.edu/~laneymcg/laura.rdf" />
+        <foaf:knows rdf:resource="http://www.stanford.edu/~thorsenh/foaf.rdf" />
+        <foaf:knows rdf:resource="http://www.stanford.edu/~azanella" />
+        <foaf:holdsAccount rdf:resource="http://twitter.com/arcadia"/>
+        <foaf:holdsAccount rdf:resource="http://twitter.com/stringcourse"/>
+
+    </foaf:Person>
+</rdf:RDF>

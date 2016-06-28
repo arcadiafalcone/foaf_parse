@@ -1,1 +1,1 @@
-# foaf_parse
+Parse shared foaf files
