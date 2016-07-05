@@ -26,9 +26,9 @@
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Metadata"/>
         <foaf:interest rdf:resource="http://viaf.org/viaf/29540426/"/>
         <foaf:interest rdf:resource="http://viaf.org/viaf/175497077/#Dunnett,_Dorothy._|_Lymond_chronicles"/>
-        <foaf:interest rdf:resource="http://dbpedia.org/page/Silent_film"/>
-        <foaf:interest rdf:resource="http://dbpedia.org/page/Tweed_(cloth)"/>
-        <foaf:interest rdf:resource="http://dbpedia.org/page/Sylvia_Beach"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Silent_film"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Tweed_(cloth)"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Sylvia_Beach"/>
 
         <foaf:knows rdf:resource="https://stanford.edu/~bess/foaf.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~ahafele/foaf.rdf#me"/>
