@@ -24,11 +24,12 @@
 		    <swc:attendeeAt rdf:resource="http://code4lib.org/2016#conference"/>
 
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Metadata"/>
-        <foaf:interest rdf:resource="http://viaf.org/viaf/29540426/"/>
-        <foaf:interest rdf:resource="http://viaf.org/viaf/175497077/#Dunnett,_Dorothy._|_Lymond_chronicles"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Dorothy_L._Sayers"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Lymond_Chronicles"/>
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Silent_film"/>
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Tweed_(cloth)"/>
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Sylvia_Beach"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Mystery_Science_Theater_3000"/>
 
         <foaf:knows rdf:resource="https://stanford.edu/~bess/foaf.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~ahafele/foaf.rdf#me"/>
@@ -36,6 +37,8 @@
         <foaf:knows rdf:resource="https://stanford.edu/~laneymcg/laura.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~thorsenh/foaf.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~azanella/me.rdf#me"/>
+        <foaf:knows rdf:resource="https://stanford.edu/~dlrueda/foaf.rdf#me"/>
+        <foaf:knows rdf:resource="https://stanford.edu/~sdoljack/sdoljack_foaf.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~arcadia/beatrice_foaf.rdf#me"/>
 
         <foaf:holdsAccount rdf:resource="http://twitter.com/arcadia"/>
