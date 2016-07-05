@@ -24,3 +24,14 @@ puts 'set'
 result_set.each do |r|
   puts r
 end
+
+interest_query = "PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT ?o
+WHERE {?s foaf:interest ?o}"
+
+int = SPARQL.parse(interest_query)
+int.execute(graph) do |result|
+  puts result.o
+  rdf = RDF::Resource(RDF::URI.new(result.o))
+  graph.load(rdf)
+end
