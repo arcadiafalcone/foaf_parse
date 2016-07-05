@@ -23,15 +23,12 @@
 		    <swc:attendeeAt rdf:resource="http://code4lib.org/2015#conference"/>
 		    <swc:attendeeAt rdf:resource="http://code4lib.org/2016#conference"/>
 
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Programming"/>
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Semantic_Web"/>
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Digital_preservation"/>
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Digital_library"/>
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Library"/>
-        <foaf:interest rdf:resource="http://dbpedia.org/resource/Library_catalog"/>
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Metadata"/>
         <foaf:interest rdf:resource="http://viaf.org/viaf/29540426/"/>
         <foaf:interest rdf:resource="http://viaf.org/viaf/175497077/#Dunnett,_Dorothy._|_Lymond_chronicles"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/page/Silent_film"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/page/Tweed_(cloth)"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/page/Sylvia_Beach"/>
 
         <foaf:knows rdf:resource="https://stanford.edu/~bess/foaf.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~ahafele/foaf.rdf#me"/>
