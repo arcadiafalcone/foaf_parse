@@ -30,6 +30,7 @@
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Tweed_(cloth)"/>
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Sylvia_Beach"/>
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Mystery_Science_Theater_3000"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Johann_Sebastian_Bach"/>
 
         <foaf:knows rdf:resource="https://stanford.edu/~bess/foaf.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~ahafele/foaf.rdf#me"/>

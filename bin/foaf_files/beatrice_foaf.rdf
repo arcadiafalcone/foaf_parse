@@ -13,5 +13,6 @@
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Eating"/>
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Purring"/>
         <foaf:interest rdf:resource="http://dbpedia.org/resource/Escapology"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Squirrels"/>
     </foaf:Person>
   </rdf:RDF>
