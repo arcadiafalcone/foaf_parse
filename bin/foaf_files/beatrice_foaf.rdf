@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:swc="http://data.semanticweb.org/ns/swc/ontology#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    >
+    <foaf:Person rdf:ID="me">
+        <foaf:name>Beatrice</foaf:name>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Sleeping"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Eating"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Purring"/>
+        <foaf:interest rdf:resource="http://dbpedia.org/resource/Escapology"/>
+    </foaf:Person>
+  </rdf:RDF>

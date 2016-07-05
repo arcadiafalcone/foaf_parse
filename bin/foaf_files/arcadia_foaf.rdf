@@ -36,6 +36,8 @@
         <foaf:knows rdf:resource="https://stanford.edu/~laneymcg/laura.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~thorsenh/foaf.rdf#me"/>
         <foaf:knows rdf:resource="https://stanford.edu/~azanella/me.rdf#me"/>
+        <foaf:knows rdf:resource="https://stanford.edu/~arcadia/beatrice_foaf.rdf#me"/>
+
         <foaf:holdsAccount rdf:resource="http://twitter.com/arcadia"/>
         <foaf:holdsAccount rdf:resource="http://twitter.com/stringcourse"/>
 
