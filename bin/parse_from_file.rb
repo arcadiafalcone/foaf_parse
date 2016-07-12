@@ -3,7 +3,7 @@ require 'linkeddata'
 require 'sparql'
 require 'set'
 
-graph = RDF::Graph.load("foaf_files/arcadia_foaf.rdf")
+graph = RDF::Graph.load("bin/foaf_files/arcadia_foaf.rdf")
 puts graph.inspect
 
 query = "PREFIX foaf: <http://xmlns.com/foaf/0.1/>
